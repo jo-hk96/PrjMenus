@@ -20,7 +20,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>메뉴수정</h2>
+	<h2>메뉴수정하기</h2>
 	<form action ="updateaction.jsp" method ="GET">
 		<table>
 			<tr>
