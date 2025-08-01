@@ -10,7 +10,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>메뉴추가</h2>
+	<h2>메뉴추가하기</h2>
 	<form action ="addaction.jsp" method ="GET">
 		<table>
 			<tr>
